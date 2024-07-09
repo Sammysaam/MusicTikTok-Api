@@ -2,7 +2,7 @@
 
 <img width="500" src="https://dafunda.com/wp-content/uploads/2021/01/Karakter-Hunter-x-Hunter-Yang-Kuat-Menurut-Hisoka.jpg">
 
-<br> Hisoka Bot
+<br> MUSIC MP3 WHATSAPP
  
  > This script is run using the whatsapp-web.js library and uses puppeteer
  
